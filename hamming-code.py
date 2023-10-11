@@ -1,6 +1,6 @@
 '''
 nickname : Ceyhun11
-time : 10/27/2002  3:40 AM
+time : 27/10/2023  3:40 AM
 code name : Hamming Code
 description :
     1. include data bits
